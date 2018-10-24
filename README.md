@@ -1,9 +1,10 @@
-Y2 2018 Yearlong: Flask routing
-Welcome to the Flask routing lab!
-
+<h3>Y2 2018 Yearlong: Flask routing</h3><br>
+<h1>Welcome to the Flask routing lab!</h1>
+<br>
 Throughout this lab, you should be editing webapp.py.
-
-Part 1: link your first page
+<br><br>
+<h2>Part 1: link your first page</h2>
+<br>
 Edit the home_page function, using just Python, to display your home page. this function can be found in webapp.py.
 (Hint: to see your page you should run webapp.py and in your browser go to the link of the server)
 
