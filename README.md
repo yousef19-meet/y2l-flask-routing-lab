@@ -11,8 +11,8 @@
 
 
 ## Part 1: Setting up Flask
-__Edit app.py for this portion of the lab__
-__This lab is the beginning of a project that we'll be building on top of every session to help practice Python, Flask and Databases..So make sure to save your code!__
+__Edit app.py for this portion of the lab.__\
+__This lab is the beginning of a project that we'll be building on top of every session to help practice Python, Flask and Databases..So make sure to save your code!.__\
 __In this project you'll be creating an online shop of your choice!__
 
 1. Create a very basic html file in the "templates" folder, then go to app.py and connect the html file to flask. Test it out and call us to check!
@@ -20,7 +20,7 @@ __In this project you'll be creating an online shop of your choice!__
 
 2. Create a new **.html** file and call it "shop.html", this template will be used to show your products to the users in the next few sessions.
 
-### Part 1 - Bonus
+### Bonus
 
 1. Design the html files you created using css and bootstrap.
 
@@ -31,7 +31,7 @@ __In this project you'll be creating an online shop of your choice!__
 ## Part 2: Routing
 Create a new app route "/shop", and link it to the shop.html template from the previous part.
 
-### Part 2 - Bonus
+### Bonus
 Connect shop.html and home.html together using buttons or navbars (Hint: Google "url_for")
 
 
@@ -39,7 +39,7 @@ Connect shop.html and home.html together using buttons or navbars (Hint: Google 
 ## Part 3: Style Your Home Page
 Create a list of product names and pass it to the shop.html template, have all product names show up in the shop template in order. You can make it as a basic list using div and/or br tags, in a bootstrap grid system, or even in a more advanced styling from the web. Your call, be creative!
 
-### Part 3 - Bonus
+### Bonus
 
 1. Add prices assigned to each product and show them on shop.html accordingly. (You can do this in many ways, google it!)
 
