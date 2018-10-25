@@ -15,7 +15,7 @@ __Edit app.py for this portion of the lab.__\
 __This lab is the beginning of a project that we'll be building on top of every session to help practice Python, Flask and Databases..So make sure to save your code!.__\
 __In this project you'll be creating an online shop of your choice!__
 
-1. Create a basic html file in the "templates" folder, call it "shop.html", this page is responsible for showing the products to the user. 
+1. Create a basic html file in the "templates" folder, call it "home.html", this page is responsible for showing the products to the user. 
 
 2. Go to app.py and connect the html file you just created to flask. Test it out and call us to check!
 (Reminder: to see your page you should run app.py by typing "python app.py" in the terminal, then open the link that you get)
